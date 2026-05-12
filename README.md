@@ -51,11 +51,6 @@ The app is code-signed and notarized by Apple for Gatekeeper compatibility.
 3. **Push** — File uploads to your configured server automatically.
 4. **Share** — URL is copied to clipboard instantly. Paste anywhere.
 
-## Support
-
-- File issues on this repository
-- Email: support@capturepush.com
-
 ## License
 
 CapturePush is free to use. Source code is not currently open source.
